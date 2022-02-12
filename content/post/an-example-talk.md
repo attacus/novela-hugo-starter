@@ -5,7 +5,6 @@ title: An example talk
 excerpt: Here is a talk that I have given at some point
 date: 
 hero: "/images/alex-litvin-maysdoypguk-unsplash.jpg"
-draft: true
 
 ---
 Cupcake ipsum dolor sit amet I love bonbon cupcake gummies. Chocolate bar croissant wafer I love jelly-o danish. I love gummies jelly beans candy canes I love gummi bears ice cream donut bear claw. Jujubes gingerbread I love tart chupa chups carrot cake. Sweet apple pie I love soufflé oat cake gummies. Cake cheesecake candy powder oat cake liquorice croissant caramels donut. Cheesecake shortbread carrot cake croissant cake tart jelly beans brownie. Tootsie roll cheesecake cookie sweet roll chocolate cake. Chocolate sesame snaps apple pie cake chocolate bar tiramisu I love. Fruitcake macaroon danish cake brownie.
