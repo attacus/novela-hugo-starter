@@ -41,5 +41,6 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/an-example-talk.md
 - talks/an-example-talk-copy.md
 - talks/an-example-talk.md
