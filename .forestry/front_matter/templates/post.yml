@@ -41,4 +41,5 @@ fields:
   default: []
   label: Authors
 pages:
+- talks/an-example-talk-copy.md
 - talks/an-example-talk.md
